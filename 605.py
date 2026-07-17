@@ -1,4 +1,5 @@
 # Very dirty code but still AC. What I did is I followed a flowchart of edge cases with if statements
+
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
         if(n==0):
